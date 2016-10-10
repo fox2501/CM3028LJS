@@ -25,7 +25,7 @@ while($row = $result->fetch_array()){
     $yearReleased = $row['yearReleased'];
     $productionStudio = $row['productionStudio'];
     $notes = $row['notes'];
-    echo "<p>".$movieTitle.$yearReleased.$productionStudio.$notes."</p>";
+    echo "<p>".$movieTitle." " .$yearReleased." " .$productionStudio. " ". $notes."</p>";
 }
 
 $result->close();
