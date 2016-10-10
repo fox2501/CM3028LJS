@@ -16,7 +16,7 @@ if($db->connect_errno){
     die('ConnectFailed['.$db->connect_error.']');
 }
 
-$sql_query = "SELECT * FROM marvelmovies WHERE title LIKE '*X-Men*'";
+$sql_query = "SELECT * FROM marvelmovies WHERE title LIKE '%X-Men%'";
 
 $result=$db->query($sql_query);
 
