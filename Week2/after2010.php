@@ -16,7 +16,7 @@ if($db->connect_errno){
     die('ConnectFailed['.$db->connect_error.']');
 }
 
-$sql_query = "SELECT * FROM marvelmovies WHERE yearReleased > 2009'";
+$sql_query = "SELECT * FROM marvelmovies WHERE yearReleased > '2009'";
 
 $result=$db->query($sql_query);
 
