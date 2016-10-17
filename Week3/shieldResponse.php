@@ -11,4 +11,4 @@ $surname =$_POST["surname"];
 $gender =$_POST["gender"];
 $superPower =$_POST["superPower"];
 
-echo $forename.$surname. " is " . $gender . " and has the Super Power of " . $superPower;
+echo $forename. " " .$surname. " is " . $gender . " and has the Super Power of " . $superPower;
