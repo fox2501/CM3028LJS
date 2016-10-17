@@ -7,10 +7,11 @@
 </html>
 
 <p>
-    Where would you like to say HEllo?
-    <a href="http://redeplotlswebapp.azurewebsites.net/Week3/helloPrinter.php?planet=Earth"><button>Earth</button> </a>
-    <a href="http://redeplotlswebapp.azurewebsites.net/Week3/helloPrinter.php?planet=Mars"><button>Mars</button> </a>
-    <a href="http://redeplotlswebapp.azurewebsites.net/Week3/helloPrinter.php?planet=Uranus"><button>Uranus</button> </a>
+<p>Where would you like to say Hello?</p>
+
+    <a href="http://redeplotlswebapp.azurewebsites.net/Week3/helloPrinter.php?planet=Earth"><button>Earth</button></a>
+    <a href="http://redeplotlswebapp.azurewebsites.net/Week3/helloPrinter.php?planet=Mars"><button>Mars</button></a>
+    <a href="http://redeplotlswebapp.azurewebsites.net/Week3/helloPrinter.php?planet=Uranus"><button>Uranus</button></a>
 </p>
 
 <?php
