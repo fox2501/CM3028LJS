@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<form action="shieldResponse.php" method ="post">
+<form action="shieldResponse.php" method ="get">
     <label>Forename</label><input type="text" name="forename"><br><br>
     <label>Surname</label><input type="text" name="surname"><br>
     <label>Gender</label><br><input type="radio" name="gender" value ="Male" checked>Male<br>
