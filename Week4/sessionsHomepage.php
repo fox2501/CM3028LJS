@@ -7,10 +7,10 @@
  * Date: 24/10/2016
  * Time: 14:19
  */
-if(isset($_SESSION['username'])){
+if($_SESSION['username'] = 'Liam'){
     echo"Your Username is " . $_SESSION['username'] . " and ";
 }
-if(isset($_SESSION['access_level'])){
+if($_SESSION['access_level'] == 'standarduser'){
     echo"Your Access Level is " . $_SESSION['access_level'];
 }
 
