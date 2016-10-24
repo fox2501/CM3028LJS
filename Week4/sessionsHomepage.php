@@ -10,7 +10,7 @@
 if($_SESSION['username'] = 'Liam'){
     echo"Your Username is " . $_SESSION['username'] . " and ";
 }
-if($_SESSION['access_level'] == 'standarduser'){
+if($_SESSION['access_level'] = 'standarduser'){
     echo"Your Access Level is " . $_SESSION['access_level'];
 }
 
