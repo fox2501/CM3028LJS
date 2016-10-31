@@ -1,9 +1,7 @@
 <?
 session_start();
 ?>
-<?php
-include ("style/style.css")
-?>
+
 
 </php>
 include (
