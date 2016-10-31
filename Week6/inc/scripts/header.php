@@ -4,7 +4,6 @@ session_start();
 
 
 </php>
-include (
 <!DOCTYPE html>
 
 <html lang="en">
