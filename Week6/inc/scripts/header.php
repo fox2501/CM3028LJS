@@ -1,7 +1,14 @@
 <?
 session_start();
 ?>
+<?php
+include ("style/style.css")
+?>
+
+</php>
+include (
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
