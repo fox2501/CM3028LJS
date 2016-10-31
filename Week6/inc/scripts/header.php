@@ -11,6 +11,7 @@ include (
 <head>
     <meta charset="UTF-8">
     <title>The Blog of Charles Babbage</title>
+    <link rel="stylesheet" href="style/style.css">
 </head>
 <body>
 <header>

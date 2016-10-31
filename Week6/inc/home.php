@@ -1,6 +1,5 @@
 <?php
 include ("scripts/header.php");
-include ("style/style.css");
 
 echo "
 <main>
