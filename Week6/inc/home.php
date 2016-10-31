@@ -1,6 +1,5 @@
 <?php
 include ("scripts/header.php");
-
 echo "
 <main>
 <p>Welcome to the blog of Charles Babbage! In this blog you will
