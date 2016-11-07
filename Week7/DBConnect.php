@@ -16,5 +16,5 @@ $db = new mysqli(
 //test if connection was established and print any errors
 if($db->connect_errno){
     die('ConnectFailed['.$db->connect_error.']');
-    //adjust
+
 }
